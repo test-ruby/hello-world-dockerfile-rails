@@ -1,3 +1,5 @@
+# test 1
+
 # Kinsta - Hello World - Dockerfile - Rails
 An example of deploying a Ruby on Rails application using a Dockerfile on Kinsta App Hosting services.
 
